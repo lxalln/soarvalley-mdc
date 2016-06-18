@@ -1,15 +1,15 @@
 # Site settings
 title: Soar Valley MDC
 header-img: img/home-bg.jpg
-email: bryan@know-how.com
+email: soarvalleymdc@gmail.com
 copyright_name: Soar Valley Metal Detecting Club
 description: "Welcome to the Home page of the Soar Valley Metal Detecting Club"
-baseurl: "/soarvalley-mdc"
+baseurl: "/soarvalley-mdc" #this will need to change once it's hosted on it's own domain
 url: "http://soarvalleymdc.org.uk"
 twitter_username: 
 github_username:  
 facebook_username: 
-email_username:  bryan@know-how.com
+email_username: soarvalleymdc@gmail.com
 
 # Build settings
 markdown: kramdown
