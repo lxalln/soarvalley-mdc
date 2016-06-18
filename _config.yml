@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: soarvalleymdc@gmail.com
 copyright_name: Soar Valley Metal Detecting Club
 description: "Welcome to the Home page of the Soar Valley Metal Detecting Club"
-baseurl: "/soarvalley-mdc" #this will need to change once it's hosted on it's own domain
+baseurl: ""
 url: "http://soarvalleymdc.org.uk"
 twitter_username: 
 github_username:  
